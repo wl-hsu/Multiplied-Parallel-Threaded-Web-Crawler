@@ -1,4 +1,4 @@
-# Project: Multiplied Parallel Threaded Web Crawler
+# Multiplied Parallel Threaded Web Crawler
 
 This is a completed multiped parallel threaded web crawler project.
 The starting code is assumed the legacy web crawler in a specific company is a single-threaded version. We need to improve its performance with advanced features like multi-threading, asynchronous, synchronous, reflection, design patterns,  I/O stream(json file), and AOP (aspect orientation program).
